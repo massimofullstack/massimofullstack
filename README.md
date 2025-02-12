@@ -11,7 +11,7 @@
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
-- 📫 Contacta conmigo a través de **JavierRedondoDEV@gmail.com**
+- 📫 Contacta conmigo a través de **dam1mustapha@gmail.com**
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
