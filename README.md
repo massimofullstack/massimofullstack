@@ -22,8 +22,10 @@
 <p align="left">
 
 
-<h3> align="center">Experiencia de Grado Medio (CFGM)</h3>
+<h3 align="center">Experiencia de Grado Medio (CFGM):</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,python,mysql,sqlite,vscode,netbeans,git,github,wordpress,bootstrap,figma" alt="Tecnologías utilizadas en Grado Medio"/>
+<h3 align="center">Experiencia de Grado Superior (CFGS):</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,js,php,c,cpp,kotlin,androidstudio,vscode,eclipse,netbeans,intellij,git,github,bitbucket,docker,apache,tomcat,bootstrap,tailwind,figma" alt="Tecnologías utilizadas en Grado Superior"/>
 
 <!---
 massimofullstack/massimofullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
