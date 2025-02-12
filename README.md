@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando [opjj](https://github.com/RedondoDev/opjj) y [CodeVertApi](https://github.com/iron-bit/CodeVert_Api)
+- 👯 Ahora estoy desarrollando [opjj](https://github.com) y [CodeVertApi](https://github.com)
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Mis redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/javier-redondo-fernández-680957285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-redondo-fernández-680957285" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EL Mustapha El HAMZAOUI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
