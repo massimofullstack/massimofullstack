@@ -13,7 +13,7 @@
 
 - 📫 Contacta conmigo a través de **dam1mustapha@gmail.com**
 
-<h3 align="left">Mis redes:</h3>
+<h3 align="center">Mis redes:</h3>
 <p align="center">
 <p>
   <a href="https://www.linkedin.com/" target="_blank">
