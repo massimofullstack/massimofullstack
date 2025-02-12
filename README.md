@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy MassimoFullStack</h1>
 <h3 align="center">Apasionado desarrollador de software residente en España</h3>
 <hr>
-<img align="right" alt="Coding" width="800" height="auto" style="border: 4px solid #4CAF50; border-radius: 20px; padding: 10px; background-color: #f5f5f5; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0px 15px 30px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 10px 20px rgba(0, 0, 0, 0.1)';" />
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873" />
+
 
 
 
