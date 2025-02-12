@@ -21,7 +21,7 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,kotlin,jetpackcompose,aws,docker,react,angular,vscode,intellij,eclipse,androidstudio,netbeans" alt="Languages, Frameworks & IDEs"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,kotlin,jetpackcompose,aws,docker,react,angular,vscode,intellij,eclipse,androidstudio,netbeans" alt="Languages,Frameworks & IDEs"/>
 
 <!---
 massimofullstack/massimofullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
