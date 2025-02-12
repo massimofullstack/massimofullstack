@@ -2,6 +2,7 @@
 <h3 align="center">Apasionado desarrollador de software residente en España</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873" />
 
 - 📚 Actualmente estoy estudiando 1º DAM en **IES Las Salinas**
 
