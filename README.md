@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado desarrollador de software residente en España</h3>
 <hr>
 <img align="right" alt="Coding" width="400" height="auto" style="border: 6px solid #e74c3c; border-radius: 20px; padding: 8px; background-color: #333333; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873" />
-<img align="right" alt="Coding" width="400" height="auto" style="border: 4px solid #000000; border-radius: 18px; padding: 7px; background-color: #ecf0f1; box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873" />
+
 
 
 
