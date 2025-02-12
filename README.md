@@ -6,9 +6,6 @@
 
 
 
-
-
-
 - 📚 Actualmente estoy estudiando 1º DAM en **IES Las Salinas**
 
 - 🌱 Perfeccionando mis habilidades con **Azure, Ecllipse, IDEs ALL, Sistemas Informaticos & Cloud Computing**
