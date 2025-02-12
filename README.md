@@ -20,6 +20,9 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
 </p>
 
