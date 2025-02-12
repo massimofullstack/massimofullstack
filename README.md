@@ -14,7 +14,7 @@
 - 📫 Contacta conmigo a través de **dam1mustapha@gmail.com**
 
 <h3 align="left">Mis redes:</h3>
-<p align="left">
+<p align="center">
 <p>
   <a href="https://www.linkedin.com/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
