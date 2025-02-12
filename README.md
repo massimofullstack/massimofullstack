@@ -5,7 +5,7 @@
 
 - 📚 Actualmente estoy estudiando 1º DAM en **IES Las Salinas**
 
-- 🌱 Perfeccionando mis habilidades con **Spring Boot**
+- 🌱 Perfeccionando mis habilidades con **Azure, Ecllipse, IDEs ALL, Sistemas Informaticos & Cloud Computing**
 
 - 👯 Ahora estoy desarrollando [opjj](https://github.com) y [CodeVertApi](https://github.com)
 
