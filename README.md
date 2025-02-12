@@ -21,7 +21,9 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,kotlin,jetpackcompose,aws,docker,react,angular,vscode,eclipse,androidstudio,netbeans,intellij,postman,git,github,bitbucket,jira,tomcat,kubernetes,redis,mongodb,graphql,typescript,tailwind,bootstrap" alt="Languages, Frameworks & IDEs"/>
+
+<h3> align="center">Experiencia de Grado Medio (CFGM)</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,python,mysql,sqlite,vscode,netbeans,git,github,wordpress,bootstrap,figma" alt="Tecnologías utilizadas en Grado Medio"/>
 
 <!---
 massimofullstack/massimofullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
